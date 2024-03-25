@@ -1,4 +1,4 @@
-#`https://www.freecodecamp.org/news/connect-python-with-sql/`
+
 
 import mysql.connector
 from mysql.connector import Error
